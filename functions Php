@@ -21,3 +21,15 @@ echo 345 + 234;
 add_twoNumbers();
 
 
+//Using an init function to call all the functions
+
+function init() {
+
+add_twoNumbers();
+say_Something();
+
+}
+
+//calling the init function
+
+init();
