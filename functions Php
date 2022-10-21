@@ -1,0 +1,6 @@
+//Creating a function
+
+function say_Something() {
+echo "Hello world";
+
+}
