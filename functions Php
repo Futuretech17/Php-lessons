@@ -17,3 +17,7 @@ echo 345 + 234;
 
 }
 
+//calling the function
+add_twoNumbers();
+
+
