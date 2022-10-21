@@ -4,3 +4,16 @@ function say_Something() {
 echo "Hello world";
 
 }
+
+//Calling the function
+
+say_Something();
+
+//Create a function to add two numbers
+
+function add_twoNumbers() {
+
+echo 345 + 234;
+
+}
+
